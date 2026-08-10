@@ -1,0 +1,23 @@
+{
+  "name": "careercraft-ai-root",
+  "version": "1.0.0",
+  "description": "CareerCraft AI - Full Stack MERN Stack AI Resume Analyzer, Skill Charts, Roadmap Generator & Interview Suite",
+  "scripts": {
+    "install-all": "npm --prefix backend install && npm --prefix frontend install",
+    "start-backend": "npm --prefix backend start",
+    "dev-backend": "npm --prefix backend dev",
+    "dev-frontend": "npm --prefix frontend dev"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "ai",
+    "gemini",
+    "resume-analyzer"
+  ],
+  "author": "Antigravity AI",
+  "license": "ISC"
+}
