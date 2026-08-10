@@ -184,7 +184,7 @@ Fork the repository and submit a Pull Request.
 **Rudra Pratap Singh**
 
 - GitHub: https://github.com/rudrapratap029
-- LinkedIn: *(Add your LinkedIn Profile)*
+- LinkedIn: https://www.linkedin.com/in/rudra-pratap-singh-52bab1288/
 
 ---
 
