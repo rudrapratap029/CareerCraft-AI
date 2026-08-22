@@ -9,6 +9,7 @@ CareerCraft AI helps students and job seekers improve their careers through AI-p
 ## ✨ Features
 
 ### 🔐 Authentication
+
 - User Registration
 - User Login
 - JWT Authentication
